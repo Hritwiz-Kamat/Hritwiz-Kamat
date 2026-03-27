@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey there, I'm Hritwiz Kamat 👋<br>Backend Developer | Aspiring Machine Learning Engineer<br><br>🌱 Learning — Full stack web development using MERN stack.<br><br>🎬 Beyond code — I run a tech YouTube channel called Don't Miss Tomorrow (DMT) where I break down tech trends and ideas.<br><br>💡 Interests — Open source, AI-driven development, and figuring out what the future of tech actually looks like.<br><br>📫 Reach me at — https://www.linkedin.com/in/hritwiz-kamat-a5613b315/
 
 
